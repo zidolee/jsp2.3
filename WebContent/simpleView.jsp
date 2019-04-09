@@ -7,6 +7,6 @@
 <title>View</title>
 </head>
 <body>
-	결과  : ${requestScope.result }
+	결과 : ${requestScope.result }
 </body>
 </html>
